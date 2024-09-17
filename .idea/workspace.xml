@@ -1,14 +1,63 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="70e7cb28-352f-49bd-92af-6788ec763e81" name="Changes" comment="" />
+    <list default="true" id="70e7cb28-352f-49bd-92af-6788ec763e81" name="Changes" comment="add Array Method.kt">
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/kotlinlanjutan.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Array 2 Dimensi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Elvis Operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/For Loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi Ekspresi Tunggal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi Math.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Fungsi dan Lambdas.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kalkulator Sederhana Menggunakan Percabangan IF-ELSE IF.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Kalkulator Sederhana Menggunakan Percabangan When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Map.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Menggunakan Pair sebagai nilai kembal.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Menghitung Akar Kuadrat.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Menghitung Luas dan Keliling Lingkaran.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Null-Safety.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Operator.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Pemanggilan yang aman (Safe Calls).kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan For-Loop dalam Kalkulator Eksponensial.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan For-Loop dalam Tabel Perkalian.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Penerapan While-Loop dalam Kalkulator Sederhana.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Percabangan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Ranges.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/When.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/While dan Do-While Loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/arrayListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/listOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/mutableListOf.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/penggunaan break dan continue pada sebuah perulangan.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/program break dan continue label pada perulangan for-loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/program penanganan eksepsi.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/program penggunaan fungsi lambda.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/program return pada perulangan foor loop.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/set.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2lrcuLrp4UbQcc07Z22GJB3KhlE" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,12 +65,63 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/kotlinlanjutan&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Kotlin.Array_MethodKt">
+    <configuration name="ArrayListOfKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayListOfKt" />
+      <module name="kotlinlanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Array_MethodKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array_MethodKt" />
+      <module name="kotlinlanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OperatorKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="OperatorKt" />
+      <module name="kotlinlanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Program_return_pada_perulangan_foor_loopKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Program_return_pada_perulangan_foor_loopKt" />
+      <module name="kotlinlanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SetKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SetKt" />
+      <module name="kotlinlanjutan" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Array_MethodKt" />
+        <item itemvalue="Kotlin.Program_return_pada_perulangan_foor_loopKt" />
+        <item itemvalue="Kotlin.OperatorKt" />
+        <item itemvalue="Kotlin.SetKt" />
+        <item itemvalue="Kotlin.ArrayListOfKt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,6 +131,77 @@
       <option name="presentableId" value="Default" />
       <updated>1725941864205</updated>
     </task>
+    <task id="LOCAL-00001" summary="stater project">
+      <created>1725941989070</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725941989070</updated>
+    </task>
+    <task id="LOCAL-00002" summary="add Array.kt">
+      <created>1725942361282</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725942361282</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add Array dengan tipe primitive.kt">
+      <created>1726545499973</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726545499973</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add">
+      <created>1726545758474</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726545758474</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add Collections.kt">
+      <created>1726546183984</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1726546183984</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add Argumen Default Fungsi.kt">
+      <created>1726546403239</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726546403239</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add Array Method.kt">
+      <created>1726546502713</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1726546502713</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="stater project" />
+    <MESSAGE value="add Array.kt" />
+    <MESSAGE value="add Array dengan tipe primitive.kt" />
+    <MESSAGE value="add" />
+    <MESSAGE value="add Collections.kt" />
+    <MESSAGE value="add Argumen Default Fungsi.kt" />
+    <MESSAGE value="add Array Method.kt" />
+    <option name="LAST_COMMIT_MESSAGE" value="add Array Method.kt" />
   </component>
 </project>
